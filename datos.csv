@@ -1,0 +1,37 @@
+Marca temporal,"Información general
+
+1. Ingresa tu edad",2. Género,"Hábitos de estudio
+
+4. ¿Cuántas horas estudías al día?",5.  ¿Tienes un trabajo? ,"Hábitos digitales
+
+6. ¿Cuántas horas pasas al día en redes sociales? ",7.   ¿Cuántas horas ves plataformas de streaming al día? ,8.  ¿Cómo describirías la calidad de tu conexión a Internet? ,"Asistencia y rendimiento académico
+
+9.  ¿Qué porcentaje de tus clases sueles asistir?",10. ¿Cuál fue tu último puntaje de examen importante?  ,"Salud y bienestar
+
+11.  ¿Cuántas horas duermes? ",12.  ¿Cómo calificarías la calidad de tu alimentación? ,13.  ¿Con qué frecuencia haces ejercicio a la semana? ,14.  ¿Cómo evaluarías tu salud mental? ,"Estilo de vida y familia
+
+
+15. ¿Qué nivel educativo tienen tus padres o tutores?",16.  ¿Participas en actividades extracurriculares? ,17. Escribe en que materias consideras que tuviste dificultades,3. Carrera
+13/11/2025 14:09:13,22,Femenino,0 a 2,Sí,más de 6,2 a 3,Excelente,51%  a  75%,50,más de 6,Muy buena,1–2 veces,Excelente,Secundaria,"Sí, arte/música",Aprendizaje Automatico Supervisado y Metodos Numericos,Ciencia de Datos
+18/11/2025 15:37:13,23,Masculino,0 a 2,No,0 a 3,2 a 3,Mala,51%  a  75%,75,más de 6,Mala,Nunca,Regular,Preparatoria,No,Fisicoquimica y Fisiología Animal,Biología 
+18/11/2025 15:51:03,23,Femenino,0 a 2,No,más de 6,0 a 2,Buena,76%  a 100%,50,más de 6,Regular,3–4 veces,Buena,Universidad,"Sí, deportes","Bioquímica , óptica y bioestadistica ",Bioingeniería 
+18/11/2025 20:34:18,21,Masculino,0 a 2,Sí,0 a 3,0 a 2,Buena,76%  a 100%,88,más de 6,Buena,5 o más veces,Buena,Universidad,"Sí, deportes",Operatoria,Odontología
+19/11/2025 8:49:18,21,Femenino,0 a 2,Sí,0 a 3,0 a 2,Buena,76%  a 100%,90,4 a 5,Buena,5 o más veces,Buena,Preparatoria,No,Diseño arquitectónico,Arquitectura
+19/11/2025 11:50:34,29,Masculino,0 a 2,Sí,0 a 3,0 a 2,Regular,76%  a 100%,90,más de 6,Regular,1–2 veces,Regular,Preparatoria,No,"Comunicación Oral y Escrita, Metodología de la Investigación ",Ciencia de Datos
+19/11/2025 11:58:59,25,Masculino,0 a 2,Sí,0 a 3,0 a 2,Regular,76%  a 100%,95,más de 6,Regular,1–2 veces,Regular,Posgrado,No,Ninguna,Ciencia de Datos
+19/11/2025 11:59:57,21,Masculino,0 a 2,No,0 a 3,0 a 2,Regular,76%  a 100%,80,más de 6,Buena,1–2 veces,Muy mala,Posgrado,No,Cálculo diferencial ,Licenciatura en Ciencias Computacionales
+19/11/2025 12:12:22,19,Masculino,0 a 2,Sí,4 a 5,0 a 2,Buena,76%  a 100%,60,más de 6,Buena,Nunca,Buena,Universidad,No,Probabilidad,Ciencias Computacionales 
+19/11/2025 12:23:05,32,Masculino,0 a 2,Sí,0 a 3,más de 4,Buena,26%  a  50%,65,más de 6,Regular,3–4 veces,Regular,Secundaria,No,Probabilidad,Ciencia de datos 
+19/11/2025 13:34:20,18,Masculino,más de 4,No,0 a 3,0 a 2,Excelente,0%  a  25%,88,4 a 5,Regular,Nunca,Mala,Preparatoria,No,Geometria,Ciencia de datos
+19/11/2025 13:38:43,25,Masculino,más de 4,Sí,0 a 3,más de 4,Excelente,76%  a 100%,60,más de 6,Muy buena,5 o más veces,Excelente,Prefiero no decir,No,Coe ,Licenciatura en ciencia de datos
+19/11/2025 13:39:59,25,Femenino,más de 4,Sí,más de 6,2 a 3,Regular,51%  a  75%,76,más de 6,Regular,3–4 veces,Regular,Universidad,"Sí, clubs/voluntariado","AstroBiologia, Mecánica,  Cálculo Diferencial",Ciencias Computacionales 
+19/11/2025 13:44:58,19,Masculino,0 a 2,Sí,0 a 3,0 a 2,Buena,76%  a 100%,103/100,más de 6,Muy buena,3–4 veces,Excelente,Universidad,"Sí, deportes",Ninguna,LCC
+19/11/2025 14:57:31,24,Masculino,0 a 2,No,0 a 3,2 a 3,Buena,26%  a  50%,40,más de 6,Regular,3–4 veces,Buena,Primaria,No,"Algebra, y regularmente las matematicas en general",Ciencia de Datos
+19/11/2025 15:25:36,23,Femenino,más de 4,Sí,0 a 3,0 a 2,Regular,76%  a 100%,86,4 a 5,Regular,1–2 veces,Regular,Preparatoria,"Sí, clubs/voluntariado",Fisicoquímica ,Biología 
+19/11/2025 17:48:04,21,Femenino,más de 4,No,0 a 3,2 a 3,Regular,76%  a 100%,100,más de 6,Regular,1–2 veces,Regular,Prefiero no decir,No,Matemáticas Discretas y Programación Orientada a Objetos,Ciencia de Datos
+19/11/2025 20:58:50,20,Masculino,más de 4,No,0 a 3,2 a 3,Excelente,76%  a 100%,80,más de 6,Mala,Nunca,Buena,Universidad,"Sí, deportes",Aprendizaje Automático Supervizado ,Ciencia de Datos
+19/11/2025 20:59:55,20,Masculino,0 a 2,No,4 a 5,2 a 3,Excelente,76%  a 100%,90,más de 6,Regular,3–4 veces,Buena,Posgrado,"Sí, deportes","Aprendizaje Automatico Supervisado, Analisis de Regresion y Correlacion",Licenciatura en Ciencia de Datos
+19/11/2025 21:00:36,22,Masculino,0 a 2,No,0 a 3,0 a 2,Buena,76%  a 100%,57,más de 6,Regular,3–4 veces,Regular,Universidad,No,"Regresión y Correlación, Adquisición y Tratamiento de la Información",Licenciatura en Ciencia de Datos
+19/11/2025 21:01:00,22,Femenino,2 a 3,Sí,0 a 3,0 a 2,Buena,76%  a 100%,70,más de 6,Muy buena,1–2 veces,Buena,Posgrado,"Sí, deportes",Análisis de Regresión y Correlación,Licenciatura en Ciencia de Datos
+19/11/2025 21:35:24,21,Masculino,más de 4,Sí,4 a 5,0 a 2,Buena,51%  a  75%,70 de 100,4 a 5,Regular,1–2 veces,Regular,Universidad,"Sí, deportes",Calculo integral,Ciencia de datos 
+19/11/2025 21:52:10,20,Masculino,0 a 2,Sí,0 a 3,0 a 2,Excelente,76%  a 100%,90,4 a 5,Buena,Nunca,Buena,Preparatoria,No,Análisis de Regresión y Correlación,Ciencia de Datos
